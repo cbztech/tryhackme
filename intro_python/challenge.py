@@ -1,6 +1,6 @@
 from base64 import *
 
-with open('C:\encodedflag.txt', 'r') as encoded_file:
+with open('C:/tryhackme/encodedflag.txt', 'r') as encoded_file:
     decode = encoded_file.read()
     loop_count = 1
 
