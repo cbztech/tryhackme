@@ -11,5 +11,8 @@ Using the base64 library within python. Can you decode this and retrieve the fla
 from base64 import *
 
 5 times encoded using base 16
+
 5 times encoded using base 32
+
 5 times encoded using base 64!
+
